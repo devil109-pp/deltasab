@@ -26,4 +26,5 @@ getgenv().MODEL_SEARCH_SETTINGS = {
 ["Blackhole Goat"] = { enabled = true, requireEffect = false },
 ["Dul Dul Dul"] = { enabled = true, requireEffect = false },
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/keyless/refs/heads/main/keyless"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/keyless/main/keyless.lua"))()
+
