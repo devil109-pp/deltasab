@@ -1,11 +1,1 @@
-if game.PlaceId == 126884695634066 then
-    
-    
-else
-    
-    game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "Kurd hub",
-        Text = "كريزي يا كحوب اطلع برا ",
-        Duration = 10
-    })
-end
+.
